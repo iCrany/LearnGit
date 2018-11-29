@@ -1,0 +1,3 @@
+[submodule "YYCache"]
+	path = YYCache
+	url = https://github.com/ibireme/YYCache.git
